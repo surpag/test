@@ -1,0 +1,17 @@
+# Runtime dependencies
+openai
+httpx
+python-dotenv
+aiosqlite
+fastapi
+uvicorn[standard]
+pydantic
+PyJWT
+cryptography
+tavily-python
+python-multipart
+
+# Test dependencies
+pytest
+pytest-asyncio
+pytest-mock
